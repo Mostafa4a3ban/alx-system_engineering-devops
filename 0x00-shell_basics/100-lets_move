@@ -1,2 +1,2 @@
 #!/bin/bash
-Alt + U
+mv [[:upper:]]*  /tmp/u
