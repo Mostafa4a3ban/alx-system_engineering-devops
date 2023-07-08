@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown vincent:stuff /home/mostafa_shapan/alx-system_engineering-devops/0x01-shell_permissions
+sudo chown vincent:stuff .
